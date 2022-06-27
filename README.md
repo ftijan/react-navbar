@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# React App with Page Component Routing
+
+An example of a simple React app with page component routing by using the `react-router-dom` library.
+
+Based on the YouTube tutorial found [here](https://youtu.be/SLfhMt5OUPI).
+
+Used the `create-react-app` library to scaffold the app.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
